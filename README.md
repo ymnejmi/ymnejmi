@@ -6,7 +6,7 @@
 
 💡 I believe in continuous learning and strive to improve as a developer every day.
 
-🌱 I'm proficient in languages like C/C++, Rust, TypeScript among others.
+🌱 I'm proficient in languages like C/C++, Rust and TypeScript.
 
 <!-- ⚡️ Feel free to browse through my repositories and explore the code I've written.
 
